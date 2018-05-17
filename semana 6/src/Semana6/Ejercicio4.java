@@ -45,12 +45,8 @@ public class Ejercicio4 {
         promedio=suma/(contador-1);
         System.out.printf("\t\tReporte de Estaturas\n");
         System.out.printf("%s",cadenafinal);
-        System.out.printf("%f",suma);
-        System.out.printf("%d",contador);
         System.out.printf("El promedio de las estaturas es: %.2f \n",promedio);
         System.out.printf("Reporte generado por el Dept. Deportes");
-        
-        
-        
+
     }
 }
